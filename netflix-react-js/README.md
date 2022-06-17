@@ -7,6 +7,8 @@ The movies db API is used for the film data.
 Firebase Authentication is used for authenticating users login and account.
 
 
+![Netflix Frontend clone](https://github.com/sysphcd/Web-Development/blob/main/netflix-react-js/NetflixClone.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
